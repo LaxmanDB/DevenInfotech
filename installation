@@ -1,0 +1,10 @@
+change path cd front/
+npm install
+npm start
+
+same for back
+change path cd back/
+npm install 
+node app.js / nodemon app
+
+(change mongodb url in the config/config.env file) 
